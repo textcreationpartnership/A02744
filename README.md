@@ -35,9 +35,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A cordiall for the afflicted Touching the necessitie and utilitie of afflictions. Proving unto us th
+
+1. TO THE HONOrable Lady, the Lady JOHAN BARRINGTON, The Wife of that Noble, and renowned Sr. FRANCIS BARRINGTON, late of Barrington Hall: and to the Right Worſhipfull, The Lady MARY EDEN, the Wife of Sr. THOMAS EDEN, late of Ballingdon Hall.
+
+1. TO THE CHRIſtian Reader; Increaſe of Faith, Hope, and Patience.
+
+1. An Alphabeticall Table of the chiefe things contained in this BOOKE.
+
+1. A TABLE, OF the Contents of this BOOKE.
+
+1. Errata.
+
 #####Body#####
-A cordiall for the afflicted Touching the necessitie and utilitie of afflictions. Proving unto us th
+
+1. A CORDIALL FOR THE AFFLICTED. Touching the Neceſſity and Utilitie of Afflictions.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
